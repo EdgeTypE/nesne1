@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edige\\source\\repos\\WinFormsApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA458EFA-5E15-4334-AD5D-6872ED28B0AA}|WinFormsApp17\\WinFormsApp17.csproj|c:\\users\\edige\\source\\repos\\winformsapp17\\winformsapp17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA458EFA-5E15-4334-AD5D-6872ED28B0AA}|WinFormsApp17\\WinFormsApp17.csproj|solutionrelative:winformsapp17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA458EFA-5E15-4334-AD5D-6872ED28B0AA}|WinFormsApp17\\WinFormsApp17.csproj|c:\\users\\edige\\source\\repos\\winformsapp17\\winformsapp17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA458EFA-5E15-4334-AD5D-6872ED28B0AA}|WinFormsApp17\\WinFormsApp17.csproj|solutionrelative:winformsapp17\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Edige\\source\\repos\\WinFormsApp17\\WinFormsApp17\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp17\\Form1.cs",
+              "ToolTip": "C:\\Users\\Edige\\source\\repos\\WinFormsApp17\\WinFormsApp17\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp17\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:12:58.298Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Edige\\source\\repos\\WinFormsApp17\\WinFormsApp17\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp17\\Form1.cs",
+              "ToolTip": "C:\\Users\\Edige\\source\\repos\\WinFormsApp17\\WinFormsApp17\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp17\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:02:20.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

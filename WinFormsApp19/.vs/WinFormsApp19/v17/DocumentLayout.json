@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|c:\\users\\edige\\source\\repos\\winformsapp19\\winformsapp19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|solutionrelative:winformsapp19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|c:\\users\\edige\\source\\repos\\winformsapp19\\winformsapp19\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|solutionrelative:winformsapp19\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|c:\\users\\edige\\source\\repos\\winformsapp19\\winformsapp19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88B734B4-F289-46F4-A046-03AF8D468ED8}|WinFormsApp19\\WinFormsApp19.csproj|solutionrelative:winformsapp19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp19\\Form1.cs",
+              "ToolTip": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "WinFormsApp19\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:17:03.927Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp19\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp19\\Form1.Designer.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAswP4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:15:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp19\\Form1.cs",
+              "ToolTip": "C:\\Users\\Edige\\source\\repos\\WinFormsApp19\\WinFormsApp19\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp19\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:43:40.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
